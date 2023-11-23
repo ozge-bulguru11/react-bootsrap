@@ -3,8 +3,38 @@
 @import "../../node_modules/bootstrap/scss/functions";
 @import "../../node_modules/bootstrap/scss/variables";
 
-.cButton{
-    color: $red-200;
-    width: 300px;
-    height: 200px;
+img{
+    height: 180px;
+}
+
+
+$colorP:#FEB2D0;
+$colorB:#7BC8F6;
+$colorG:#A7FFB5;
+
+
+
+
+
+#backgroundC{
+    background-color: $colorP;
+}
+
+#backgroundY{
+    background-color: $colorP;
+
+}
+
+nav{
+   
+    background-color: $colorB;
+}
+
+footer{
+    background-color:$colorB;
+
+}
+
+#buttonC{
+    background-color: $colorG;
 }
