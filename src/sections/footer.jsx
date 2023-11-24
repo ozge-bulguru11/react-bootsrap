@@ -25,7 +25,7 @@ const footer=()=> {
             <h3>Hızlı Bağlantılar</h3>
             <ul>
               <li><a href="#">Eğitim Programları</a></li>
-              <li><a href="#">Etkinlikler</a></li>
+              <li><a href="#">Etkinliklerimiz</a></li>
               <li><a href="#">Kayıt İşlemleri</a></li>
               <li><a href="#">Bize Ulaşın</a></li>
             </ul>
